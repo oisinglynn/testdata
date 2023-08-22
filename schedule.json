@@ -1,0 +1,7 @@
+{
+    "id": 123,
+    "name": "Main Schedule",
+    "status": "Open",
+    "statusEnds": 123,
+    "nextStatus": "Closed"
+}
